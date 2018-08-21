@@ -58,7 +58,7 @@
 		<image name="radio_true" filename="radio_true" retainaspect="1"/>
 		<animation name="progress" filename="indeterminate"/>
 		<image name="progress_empty" filename="progress_empty"/>
-		<image name="progress_full" filename="progress_fill"/>
+		<image name="progress_full" filename="e_progress_fill"/>
 		<image name="slider" filename="slider"/>
 		<image name="slider_used" filename="slider_used"/>
 		<image name="slider_touch" filename="slider_touch"/>

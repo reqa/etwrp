@@ -10,8 +10,8 @@
 
 	<resources>
 		<font name="font_l" filename="RobotoCondensed-Regular.ttf" size="52"/>
-		<image name="splashlogo" filename="splashlogo" retainaspect="1"/>
-		<image name="splashteamwin" filename="splashteamwin" retainaspect="1"/>
+		<image name="e_splashlogo" filename="e_splashlogo" retainaspect="1"/>
+		<image name="e_splashwide" filename="e_splashwide" retainaspect="1"/>
 	</resources>
 
 	<variables>
@@ -31,12 +31,12 @@
 			</fill>
 
 			<image>
-				<image resource="splashlogo"/>
+				<image resource="e_splashlogo"/>
 				<placement x="540" y="456" placement="4"/>
 			</image>
 
 			<image>
-				<image resource="splashteamwin"/>
+				<image resource="e_splashwide"/>
 				<placement x="540" y="1540" placement="4"/>
 			</image>
 
