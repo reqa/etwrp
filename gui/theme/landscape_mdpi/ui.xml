@@ -170,9 +170,9 @@
 		<variable name="navbar_btn_y" value="460"/>
 		<variable name="keyboard_y" value="248"/>
 		<variable name="background_color" value="#1A1A1A"/>
-		<variable name="accent_color" value="#0090CA"/>
-		<variable name="text_color" value="#EEEEEE"/>
-		<variable name="text_button_color" value="#EEEEEE"/>
+		<variable name="accent_color" value="#000000"/>
+		<variable name="text_color" value="#a8a8a8"/>
+		<variable name="text_button_color" value="#a8a8a8"/>
 		<variable name="text_success_color" value="#76FF03"/>
 		<variable name="text_fail_color" value="#FF0101"/>
 		<variable name="highlight_color" value="#1A1A1A80"/>
@@ -181,7 +181,7 @@
 		<variable name="semi_transparent" value="#00000099"/>
 		<variable name="warning" value="#F8F8A0"/>
 		<variable name="error" value="#FF0101"/>
-		<variable name="highlight" value="#0090CA"/>
+		<variable name="highlight" value="#1A1A1A"/>
 		<variable name="fileselector_linecolor" value="#555555"/>
 		<variable name="fileselector_highlight_color" value="#555555"/>
 		<variable name="fileselector_separatorheight" value="1"/>
@@ -626,7 +626,7 @@
 				<keylabel key="0:k:106" text="&gt;" resource="kb_arrow_right"/>
 				<highlight color="%highlight_color%"/>
 				<capshighlight color="%highlight_color%"/>
-				<ctrlhighlight color="#0090CA80"/>
+				<ctrlhighlight color="#1A1A1A80"/>
 				<layout1>
 					<keysize height="48" width="68"/>
 					<row1 key01="60:c:27" long01=":c:3" key02="q" long02="1" key03="w" long03="2" key04="e" long04="3" key05="r" long05="4" key06="t" long06="5" key07="y" long07="6" key08="u" long08="7" key09="i" long09="8" key10="o" long10="9" key11="p" long11="0" key12="60:k:103"/>

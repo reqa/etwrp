@@ -175,8 +175,8 @@
 		<variable name="keyboard_y" value="464"/>
 		<variable name="keyboard_terminal_y" value="422"/>
 		<variable name="background_color" value="#1A1A1A"/>
-		<variable name="accent_color" value="#0090CA"/>
-		<variable name="accent_color_semitransparent" value="#0090CA30"/>
+		<variable name="accent_color" value="#000000"/>
+		<variable name="accent_color_semitransparent" value="#1A1A1A30"/>
 		<variable name="text_color" value="#EEEEEE"/>
 		<variable name="text_button_color" value="#EEEEEE"/>
 		<variable name="text_success_color" value="#76FF03"/>
@@ -187,7 +187,7 @@
 		<variable name="semi_transparent" value="#00000099"/>
 		<variable name="warning" value="#F8F8A0"/>
 		<variable name="error" value="#FF0101"/>
-		<variable name="highlight" value="#0090CA"/>
+		<variable name="highlight" value="#1A1A1A"/>
 		<variable name="fileselector_linecolor" value="#555555"/>
 		<variable name="fileselector_highlight_color" value="#555555"/>
 		<variable name="fileselector_separatorheight" value="1"/>
@@ -575,7 +575,7 @@
 				<keylabel key="0:k:103" text="^" resource="kb_arrow_up"/>
 				<keylabel key="0:k:106" text="&gt;" resource="kb_arrow_right"/>
 				<highlight color="%highlight_color%"/>
-				<ctrlhighlight color="#0090CA80"/>
+				<ctrlhighlight color="#1A1A1A80"/>
 				<layout1>
 					<keysize height="42" width="69"/>
 					<row1 key01="68:k:29" key02="68:c:27" long02=":c:3" key03="68:c:9" key04="69:k:105" key05="69:k:108" key06="69:k:103" key07="69:k:106"/>
